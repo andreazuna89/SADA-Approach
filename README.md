@@ -11,6 +11,9 @@ python experiments_IFM_SADA.py
 python experiments_IFM_BLIND_SADA.py
 ```
 
+## Acknowledgement
+Code is largely based on DANN (https://github.com/GRAAL-Research/domain_adversarial_neural_network).
+
 ## Reference
 ```
 @article{zunino2020predicting,
@@ -19,5 +22,4 @@ python experiments_IFM_BLIND_SADA.py
   journal={International Journal of Computer Vision},
   year={2020}
 }
-
 ```
